@@ -6,7 +6,6 @@
 - 🤔 Estou procurando ajuda com Nada no momento 
 - 💬 Pergunte-me sobre HTML, CSS
 - 📫 Como entrar em contato comigo: No fim desse README.md, estará as formas de como se contatar comigo 
-- 😄 Pronomes: Ele / Dele
 - ⚡ Curiosidade: Nasci em Sp capital, tenho 18 anos., e, programo desde os 17. Ainda estou recaptulando sobre criação de sites... É pouco mas é isso UwU
 
 ##
