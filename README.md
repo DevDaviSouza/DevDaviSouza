@@ -1,6 +1,42 @@
-### Olá, eu sou o Davi Souza! 👋
 
+# 👋 Hello! Welcome to my Github profile.
+## My name is Davi souza and my nickname is "Clink"!
 
-- 🔭 No momento estou trabalhando apenas em projetos pessoais.
-- 🌱 atualmente estou aprendendo Nodejs e Reactjs.
-- 🤔 Estou procurando ajuda de programadores mais experientes no aprendizado de back-end.
+- 🌱 Atualmente estou aprendendo novamente HTML, CSS, JS
+- 👯 Estou procurando colaborar em Nada no momento 
+- 🤔 Estou procurando ajuda com Nada no momento 
+- 💬 Pergunte-me sobre HTML, CSS
+- 📫 Como entrar em contato comigo: No fim desse README.md, estará as formas de como se contatar comigo 
+- 😄 Pronomes: Ele / Dele
+- ⚡ Curiosidade: Nasci em Sp capital, tenho 18 anos., e, programo desde os 17. Ainda estou recaptulando sobre criação de sites... É pouco mas é isso UwU
+
+##
+<p align="center">
+    <img src="https://img.shields.io/github/followers/DevDaviSouza?label=Follow&style=social" alt="github followers" /><br>
+    <br>
+    <img src="https://github-readme-stats.vercel.app/api?username=DevDaviSouza&show_icons=true&theme=dark" alt="DevDaviSouza" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevDaviSouza&theme=dark" alt="DevDaviSouza" />
+</p>
+
+## Ferramentas e Tecnologias
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"  width="40" height="40"/>
+         
+               
+## Estou aprendendo
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"  width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="40" height="40"/>
+                   
+                  
+## 
+
+<hr>
+<p align="center">
+  <a target="_blank" href="https://discord.com/users/548923611801452555"><img href="https://discord.com/users/548923611801452555" src="https://lanyard.cnrad.dev/api/548923611801452555?bg=0c0c1e&borderRadius=20px&animated=true&idleMessage=Estou%20fazendo%20nada%20agora..." width="500x "></a>
+</p>
+<hr>            
+  
+  
+<p align="center">       
+  <a target="_blank" href="https://github.com/DevDaviSouza?tab=repositories"><img src="https://img.shields.io/static/v1?label=GITHUB&message=DevDaviSouza&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Github"></a>
+<a href="https://instagram.com/davi_clink69._" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+</div> 
+</p>           
