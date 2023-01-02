@@ -1,5 +1,5 @@
 # 👋 Olá! Bem vindo ao meu perfil do GitHub.
-## My name is Davi souza and my nickname is "Clink"!
+## Meu nome é Davi souza e meu apelido é "Clink"!
 
 - 🌱 Atualmente estou aprendendo novamente HTML, CSS, JS
 - 👯 Estou procurando colaborar em Nada no momento 
