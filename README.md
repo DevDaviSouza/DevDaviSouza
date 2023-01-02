@@ -1,4 +1,4 @@
-# 👋 Hello! Welcome to my Github profile.
+# 👋 Olá! Welcome to my Github profile.
 ## My name is Davi souza and my nickname is "Clink"!
 
 - 🌱 Atualmente estou aprendendo novamente HTML, CSS, JS
