@@ -1,9 +1,7 @@
 # 👋 Olá! Bem vindo ao meu perfil do GitHub.
 ## Meu nome é Davi souza e meu apelido é "Clink"!
 
-- 🌱 Atualmente estou aprendendo HTML, CSS, JS e JAVA
-- 📫 Como entrar em contato comigo: No fim desse README.md, estarão as formas de como me contatar 
-- ⚡ Curiosidade: Nasci em Sp capital, tenho 18 anos. Programo desde os 17.
+- 🌱 Atualmente estou aprendendo HTML, CSS, JS e JAVA.
 
 ##
 <p align="center">
