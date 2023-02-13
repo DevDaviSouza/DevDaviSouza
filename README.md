@@ -3,13 +3,7 @@
 
 - 🌱 Atualmente estou aprendendo HTML, CSS, JS e JAVA.
 
-##
-<p align="center">
-    <img src="https://img.shields.io/github/followers/DevDaviSouza?label=Follow&style=social" alt="github followers" /><br>
-    <br>
-    <img src="https://github-readme-stats.vercel.app/api?username=DevDaviSouza&show_icons=true&theme=dark" alt="DevDaviSouza" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevDaviSouza&theme=dark" alt="DevDaviSouza" />
-</p>
+
 
 ## Ferramentas e Tecnologias
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"  width="40" height="40"/> <img src="https://icongr.am/devicon/react-original.svg" width="40" height="40"/> <img src="https://icongr.am/devicon/mysql-original.svg" width="40" height="40"/>
