@@ -21,7 +21,7 @@
          
                
 ## Estou aprendendo
-<img src=""  width="40" height="40"/> <img src="" width="40" height="40"/>
+<img src="https://icongr.am/devicon/java-original-wordmark.svg"  width="80px" height="40"/>
                    
                   
 ## 
