@@ -21,7 +21,7 @@
          
                
 ## Estou aprendendo
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg](https://icongr.am/devicon/java-original.svg?size=128&color=currentColor"  width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="40" height="40"/>
+<img src=""  width="40" height="40"/> <img src="" width="40" height="40"/>
                    
                   
 ## 
