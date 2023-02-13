@@ -35,6 +35,5 @@
   
 <p align="center">       
   <a target="_blank" href="https://github.com/DevDaviSouza?tab=repositories"><img src="https://img.shields.io/static/v1?label=GITHUB&message=DevDaviSouza&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Github"></a>
-<a href="https://instagram.com/davi_clink69._" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div> 
 </p>
