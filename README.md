@@ -1,7 +1,7 @@
 # 👋 Olá! Bem vindo ao meu perfil do GitHub.
 ## Meu nome é Davi souza e meu apelido é "Clink"!
 
-- 🌱 Atualmente estou aprendendo HTML, CSS, JS e JAVA.
+- 🌱 Atualmente estou aprendendo JS e JAVA.
 
 
 
