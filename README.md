@@ -1,8 +1,8 @@
-# 👋 Olá! Bem vindo ao meu perfil do GitHub.
-## Meu nome é Davi souza e meu apelido é "Clink"!
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="300px" align="right" alt="Computador iuriCode">
 
-- 🌱 Atualmente estou aprendendo Java.
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevDaviSouza&hide=html&layout=compact=true&bg_color=0c0c1e&text_color=f5c6ff&title_color=ff3075&border_color=0c0c1e&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats)<br>
+<br>
+<hr>
 
 
 ## Ferramentas e Tecnologias
@@ -13,15 +13,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="40" height="40" />
 
                   
-## 
-
-<hr>
-<p align="center">
-  <a target="_blank" href="https://discord.com/users/548923611801452555"><img href="https://discord.com/users/548923611801452555" src="https://lanyard.cnrad.dev/api/548923611801452555?bg=0c0c1e&borderRadius=20px&animated=true&idleMessage=Estou%20fazendo%20nada%20agora..." width="500x "></a>
-</p>
-<hr>            
-  
-  
+##             
 <p align="center">       
   <a target="_blank" href="https://github.com/DevDaviSouza?tab=repositories"><img src="https://img.shields.io/static/v1?label=GITHUB&message=DevDaviSouza&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Github"></a>
 </div> 
