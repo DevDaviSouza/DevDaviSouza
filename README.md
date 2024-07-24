@@ -1,12 +1,15 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="300px" align="right" alt="Computador iuriCode">
+## Oii! Eu sou o Davi
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevDaviSouza&hide=html&layout=compact=true&bg_color=0c0c1e&text_color=f5c6ff&title_color=ff3075&border_color=0c0c1e&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats)<br>
-<br>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DevDaviSouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DevDaviSouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
 
 ## Ferramentas e Tecnologias
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"  width="40px" height="40"/> <img src="https://icongr.am/devicon/react-original.svg" width="40" height="40"/> <img src="https://icongr.am/devicon/mysql-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
 <p align="center">       
-  <a target="_blank" href="https://github.com/DevDaviSouza?tab=repositories"><img src="https://img.shields.io/static/v1?label=GITHUB&message=DevDaviSouza&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Github"></a>
-  <a target="_blank" href="https://www.linkedin.com/in/davi-souza-72a7b51b4/"><img src="https://img.shields.io/static/v1?label=LINKEDIN&message=Davi Souza Santos&color=f8efd4&style=for-the-badge&logo=LinkedIn" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/davi-souza-72a7b51b4/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </p>
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
