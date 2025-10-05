@@ -46,7 +46,7 @@ Atualmente estou aprimorando minhas habilidades em **arquitetura de APIs REST** 
 
 #### 🔧 [RepairControl](https://github.com/DevDaviSouza/RepairControl)
 > API para controle e gestão de ordens de serviço, desenvolvida em **Node.js + Prisma + PostgreSQL**.  
-> Implementa autenticação JWT, CRUD completo e estrutura escalável seguindo boas práticas REST.
+> Implementa autenticação JWT, CRUD completo e estrutura escalável seguindo boas práticas REST(em desenvolvimento).
 
 #### ☕ Projetos Java
 > APIs desenvolvidas com **Spring Boot**, utilizando **JPA** e **camadas bem definidas (service, repository, controller)**  
