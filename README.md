@@ -86,5 +86,6 @@ Atualmente estou aprimorando minhas habilidades em **arquitetura de APIs REST** 
 ---
 
 ### 🐍 Minhas contribuições:
-![snake gif](https://github.com/DevDaviSouza/DevDaviSouza/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/DevDaviSouza/DevDaviSouza/blob/output/github-contribution-grid-snake-dark.svg)
+
 
