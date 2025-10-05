@@ -82,3 +82,9 @@ Atualmente estou aprimorando minhas habilidades em **arquitetura de APIs REST** 
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DevDaviSouza/DevDaviSouza/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
