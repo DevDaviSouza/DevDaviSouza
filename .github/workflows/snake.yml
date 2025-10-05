@@ -17,11 +17,15 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
 
-      - name: Generate Snake Animation
+      - name: Generate Snake Animation (Dark Theme)
         uses: Platane/snk@v3
         with:
           github_user_name: DevDaviSouza
-          outputs: dist/github-contribution-grid-snake.svg
+          outputs: dist/github-contribution-grid-snake-dark.svg
+          color_snake: "#00FF9F"
+          color_dots: "#161B22,#0E4429,#006D32,#26A641,#39D353" # tons do tema dark do GitHub
+          color_bg: "#0D1117"
+          color_border: "#0D1117"
 
       - name: Upload to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v3
