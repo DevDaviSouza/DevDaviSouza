@@ -95,9 +95,8 @@ Sistema de gestão empresarial desenvolvido para atender operações comerciais 
 * Arquitetura de aplicações com NestJS
 * Desenvolvimento de APIs escaláveis
 * Mensageria e processamento assíncrono
-* Filas e processamento de tarefas com BullMQ
+* Filas e processamento de tarefas
 * Arquitetura de microsserviços
-* Armazenamento de arquivos com Cloudflare R2
 * Boas práticas com React e TypeScript
 * Gerenciamento de estado e requisições com TanStack Query
 * Monitoramento, logs e observabilidade de aplicações
